@@ -1,3 +1,5 @@
+// java stdin and stdout challenge
+
 import java.util.*;
 
 public class Solution {
