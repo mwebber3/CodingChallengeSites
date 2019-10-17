@@ -2,21 +2,21 @@
 My completed challenges for the websites: [HackerRank](https://www.hackerrank.com "HackerRank Homepage"), [Kattis](https://open.kattis.com "Kattis Homepage"), and [Project Euler](https://www.projecteuler.net "Project Euler Homepage").</br>
 The languages used throughout the challenges include: `C`, `C#`, `C++`, `Java`, `Ruby`, `Python`, and `PowerShell`. 
 
-## Challenges Completed for HackerRank
+## HackerRank Challenges Completed 
 | Challenge Name| Language      | 
 | :------------:|:--------------| 
 |               |               | 
 |               |               | 
 |               |               | 
 
-## Challenges Completed for Kattis
+## Kattis Challenges Completed 
 | Challenge Name| Language      | 
 | :------------:|:--------------| 
 |               |               | 
 |               |               | 
 |               |               |
 
-## Challenges Completed for Project Euler
+## Project Euler Challenges Completed 
 | Challenge Name       | Language      | 
 | :-------------------:|:--------------| 
 | FibonacciNumbers     | C++           | 
