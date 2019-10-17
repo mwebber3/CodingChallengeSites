@@ -1,2 +1,3 @@
-# HackerRank and Kattis
-My completed challenges from both of the websites: HackerRank and Kattis.
+# HackerRank, Kattis, and Project Euler
+My completed challenges for the websites: HackerRank, Kattis, and Project Euler.
+The languages used throughout the challenges include: C, C#, C++, Java, Ruby, Python, and PowerShell. 
