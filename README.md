@@ -12,7 +12,7 @@ The languages used throughout the challenges include: `C`, `C#`, `C++`, `Java`, 
 ## Kattis 
 | Completed Challenge Name| Language      | 
 | :----------------------:|:--------------| 
-|                         |               | 
+| Speed Limit             | C++           | 
 |                         |               | 
 |                         |               | 
 
