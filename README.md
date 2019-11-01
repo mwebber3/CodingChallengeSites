@@ -4,14 +4,14 @@ The languages used throughout the challenges include: `C`, `C#`, `C++`, `Java`, 
 
 ## HackerRank 
 | Completed Challenge Name| Language      | 
-| :----------------------:|:--------------| 
+| :-----------------------|:--------------| 
 |                         |               | 
 |                         |               | 
 |                         |               | 
 
 ## Kattis 
 | Completed Challenge Name| Language      | 
-| :----------------------:|:--------------| 
+| :-----------------------|:--------------| 
 | Speed Limit             | C++           | 
 |                         |               | 
 |                         |               | 
@@ -19,7 +19,7 @@ The languages used throughout the challenges include: `C`, `C#`, `C++`, `Java`, 
 
 ## Project Euler
 | Completed Challenge Name       | Language      | 
-| :-----------------------------:|:--------------| 
+| :------------------------------|:--------------| 
 | FibonacciNumbers               | C++           | 
 | LargestPalidrome               | C#            | 
 | LargestPrimeFactor             | C#            |
