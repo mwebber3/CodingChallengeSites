@@ -3,11 +3,20 @@ My completed challenges for the websites: [HackerRank](https://www.hackerrank.co
 The languages used throughout the challenges include: `C`, `C#`, `C++`, `Java`, `Ruby`, `Python`, and `PowerShell`. 
 
 ## HackerRank 
-| Completed Challenge Name| Language      | 
-| :-----------------------|:--------------| 
-|                         |               | 
-|                         |               | 
-|                         |               | 
+| Completed Challenge Name | Language      | 
+| :------------------------|:--------------| 
+| Hello World              | C             | 
+| Welcome to Java!         | Java          | 
+| Java Stdin and Stdout I  | Java          | 
+| Java If-Else             | Java          |
+| Java Stdin and Stdout II | Java          |
+| Java Output Formatting   | Java          |
+| Java Loops I             | Java          |
+| Java Loops II            | Java          |
+| Java Datatypes           | Java          |
+| Java End-of-file         | Java          |
+| Java Int to String       | Java          |
+
 
 ## Kattis 
 | Completed Challenge Name| Language      | 
