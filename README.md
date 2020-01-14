@@ -23,11 +23,14 @@ The languages used throughout the challenges include: `Ada`, `C`, `C#`, `C++`, `
 | :-------------------------|:--------------| 
 | Hello World               | Ada           | 
 | Aaah                      | C             | 
+| ABC                       | C             |
 | Beavergnaw                | C             | 
 | Dice Cup                  | C             | 
 | Heart Rate                | C             | 
 | Hello World               | C             | 
 | Aaah						          | C++           |
+| Akcija                    | C++           |
+| Alphabet Spam             | C++           |
 | Beavergnaw					      | C++           |
 | Dice Cup                  | C++           |
 | Heart Rate                | C++           |
