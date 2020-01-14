@@ -117,9 +117,9 @@ The languages used throughout the challenges include: `Ada`, `C`, `C#`, `C++`, `
 ## Project Euler
 | Completed Challenge Name       | Language      | 
 | :------------------------------|:--------------| 
-| FibonacciNumbers               | C++           | 
-| LargestPalidrome               | C#            | 
-| LargestPrimeFactor             | C#            |
-| MultiplesOf3And5               | C++           |
-| SmallestMultiple               | C#            |
-| SumSquareDifference            | C#            |
+| Fibonacci Numbers              | C++           | 
+| Largest Palidrome              | C#            | 
+| Largest Prime Factor           | C#            |
+| Multiples Of 3 And 5           | C++           |
+| Smallest Multiple              | C#            |
+| Sum Square Difference          | C#            |
