@@ -34,6 +34,7 @@ The languages used throughout the challenges include: `Ada`, `C`, `C#`, `C++`, `
 | Beavergnaw					      | C++           |
 | Cryptographers Conundrum  | C++           |
 | Dice Cup                  | C++           |
+| Encoded Message           | C++           |
 | Heart Rate                | C++           |
 | Hello World               | C++           |
 | Judging Moose             | C++           |
