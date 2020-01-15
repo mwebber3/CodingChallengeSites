@@ -33,6 +33,7 @@ The languages used throughout the challenges include: `Ada`, `C`, `C#`, `C++`, `
 | Alphabet Spam             | C++           |
 | Beavergnaw					      | C++           |
 | Cryptographers Conundrum  | C++           |
+| Detailed Differences      | C++           |
 | Dice Cup                  | C++           |
 | Encoded Message           | C++           |
 | Heart Rate                | C++           |
