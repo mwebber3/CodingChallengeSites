@@ -37,6 +37,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Detailed Differences      | C++           |
 | Dice Cup                  | C++           |
 | Encoded Message           | C++           |
+| FizzBuzz                  | C++           |
 | Heart Rate                | C++           |
 | Hello World               | C++           |
 | Judging Moose             | C++           |
