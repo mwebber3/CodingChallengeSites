@@ -44,6 +44,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Kornislav                 | C++           |
 | Last Factorial Digit      | C++           |
 | Parking                   | C++           |
+| Piece of Cake             | C++           |
 | Planina                   | C++           |
 | Provinces and Gold        | C++           |
 | Relocation                | C++           |
