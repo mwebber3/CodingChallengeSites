@@ -32,6 +32,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Aaah						          | C++           |
 | Akcija                    | C++           |
 | Alphabet Spam             | C++           |
+| Autori                    | C++           |
 | Beavergnaw					      | C++           |
 | Cryptographers Conundrum  | C++           |
 | Detailed Differences      | C++           |
