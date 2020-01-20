@@ -50,6 +50,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Provinces and Gold        | C++           |
 | Relocation                | C++           |
 | Speed Limit					      | C++           |
+| Trik                      | C++           |
 | Aaah						          | C#            |
 | Alphabet Spam					    | C#            |
 | Beavergnaw                | C#            |
