@@ -22,6 +22,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Completed Challenge Name  | Language      | 
 | :-------------------------|:--------------| 
 | Hello World               | Ada           | 
+| Hello World               | Assembly      |
 | Hello World               | BrainFuck     |
 | Aaah                      | C             | 
 | ABC                       | C             |
@@ -50,6 +51,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Provinces and Gold        | C++           |
 | Relocation                | C++           |
 | Speed Limit					      | C++           |
+| Tarifa                    | C++           |
 | Trik                      | C++           |
 | Aaah						          | C#            |
 | Alphabet Spam					    | C#            |
