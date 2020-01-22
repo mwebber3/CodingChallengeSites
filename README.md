@@ -50,6 +50,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Planina                   | C++           |
 | Provinces and Gold        | C++           |
 | Relocation                | C++           |
+| Seven Wonders             | C++           |
 | Speed Limit					      | C++           |
 | Tarifa                    | C++           |
 | Trik                      | C++           |
