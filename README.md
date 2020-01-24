@@ -49,6 +49,8 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Piece of Cake             | C++           |
 | Planina                   | C++           |
 | Provinces and Gold        | C++           |
+| Quadrant Selection        | C++           |
+| R2                        | C++           |
 | Relocation                | C++           |
 | Seven Wonders             | C++           |
 | Speed Limit					      | C++           |
