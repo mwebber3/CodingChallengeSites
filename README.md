@@ -115,6 +115,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Trik						          | Java          |
 | Aaah                      | PowerShell    |
 | Hello World               | PowerShell    |
+| Quadrant Selection        | PowerShell    |
 | Take Two Stones           | PowerShell    |
 | Aaah                      | Python        |
 | Alphabet Spam             | Python        |
