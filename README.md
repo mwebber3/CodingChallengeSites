@@ -30,6 +30,7 @@ The languages used throughout the challenges include: `Ada`, `BrainFuck`, `C`, `
 | Dice Cup                  | C             | 
 | Heart Rate                | C             | 
 | Hello World               | C             | 
+| Quadrant Selection        | C             |
 | Aaah						          | C++           |
 | Akcija                    | C++           |
 | Alphabet Spam             | C++           |
