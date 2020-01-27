@@ -36,6 +36,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 | Alphabet Spam             | C++           |
 | Autori                    | C++           |
 | Beavergnaw					      | C++           |
+| ColdPuter Science         | C++           |
 | Cryptographers Conundrum  | C++           |
 | Detailed Differences      | C++           |
 | Dice Cup                  | C++           |
