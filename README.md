@@ -55,6 +55,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 | Relocation                | C++           |
 | Seven Wonders             | C++           |
 | Speed Limit					      | C++           |
+| Stuck in a Time Loop      | C++           |
 | Tarifa                    | C++           |
 | Trik                      | C++           |
 | Aaah						          | C#            |
