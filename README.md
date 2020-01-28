@@ -50,6 +50,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 | Parking                   | C++           |
 | Piece of Cake             | C++           |
 | Planina                   | C++           |
+| Problem E Drinking Song   | C++           |
 | Provinces and Gold        | C++           |
 | Quadrant Selection        | C++           |
 | R2                        | C++           |
