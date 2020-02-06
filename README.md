@@ -73,7 +73,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 | Spavanac                  | Java                                                                              |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/spavanac)              | 
 | Speed Limit					      | C++                                                                               |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/speedlimit)            |
 | Stuck in a Time Loop      | C++, Java                                                                         |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/timeloop)              |
-| Take Two Stones           | Java, PowerShell                                                                  |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones)             |
+| Take Two Stones           | C++, Java, PowerShell                                                             |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones)             |
 | Tarifa                    | C++, Java                                                                         |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa)                |
 | Trik                      | C++, Java                                                                         |[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik)                  | 
 
