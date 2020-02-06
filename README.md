@@ -19,126 +19,71 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 
 
 ## Kattis 
-| Completed Challenge Name  | Language      | 🔗  |
-| :-------------------------|:--------------|-----|
-| Hello World               | Ada           |     |
-| Hello World               | Assembly      |     |
-| Hello World               | BrainFuck     |
-| Aaah                      | C             | 
-| ABC                       | C             |
-| Beavergnaw                | C             | 
-| Dice Cup                  | C             | 
-| Heart Rate                | C             | 
-| Hello World               | C             | 
-| Quadrant Selection        | C             |
-| Aaah						          | C++           |
-| Akcija                    | C++           |
-| Alphabet Spam             | C++           |
-| Autori                    | C++           |
-| Beavergnaw					      | C++           |
-| ColdPuter Science         | C++           |
-| Cryptographers Conundrum  | C++           |
-| Detailed Differences      | C++           |
-| Dice Cup                  | C++           |
-| Encoded Message           | C++           |
-| FizzBuzz                  | C++           |
-| Heart Rate                | C++           |
-| Hello World               | C++           |
-| Judging Moose             | C++           |
-| Kornislav                 | C++           |
-| Last Factorial Digit      | C++           |
-| Parking                   | C++           |
-| Piece of Cake             | C++           |
-| Planina                   | C++           |
-| Problem E Drinking Song   | C++           |
-| Provinces and Gold        | C++           |
-| Quadrant Selection        | C++           |
-| R2                        | C++           |
-| Relocation                | C++           |
-| Seven Wonders             | C++           |
-| Speed Limit					      | C++           |
-| Stuck in a Time Loop      | C++           |
-| Tarifa                    | C++           |
-| Trik                      | C++           |
-| Aaah						          | C#            |
-| Alphabet Spam					    | C#            |
-| Beavergnaw                | C#            |
-| Dice Cup                  | C#            |
-| Hello World               | C#            |
-| Kornislav                 | C#            |
-| Planina						        | C#            |
-| Hello World               | Dart          |
-| ABC						            | Java          |
-| Aaah                      | Java          |
-| Akcija                    | Java          |
-| Alphabet Spam             | Java          |
-| Apaxiaaaaaaaaaaans        | Java          |
-| Autori                    | Java          |
-| Beavergnaw                | Java          |
-| Bijele                    | Java          |
-| Cetvrta                   | Java          |
-| ColdPuter Science         | Java          |
-| Cryptographers Conundrum  | Java          | 
-| Detailed Differences      | Java          |
-| Dice Cup                  | Java          |
-| Encoded Message           | Java          |
-| Everywhere                | Java          |
-| Faktor                    | Java          |
-| Filip                     | Java          |
-| Fizz Buzz                 | Java          |
-| Grass Seeds Inc           | Java          |
-| Hanging Out on the Terrace| Java          | 
-| Heart Rate                | Java          |
-| Hello World               | Java          |
-| Hissing Microphone        | Java          |
-| Is It Halloween           | Java          |
-| Judging Moose             | Java          |
-| Kornislav                 | Java          |
-| Ladder                    | Java          |
-| Last Factorial Digit      | Java          |
-| Nasty Hacks               | Java          |
-| Number Fun                | Java          |
-| Oddities                  | Java          |
-| Parking                   | Java          |
-| Pet                       | Java          |
-| Planina                   | Java          |
-| Poker Hand                | Java          |
-| Pot                       | Java          |
-| Qaly                      | Java          |
-| Quadrant Selection        | Java          |
-| R2                        | Java          |
-| Relocation                | Java          |
-| Reversed Binary Numbers   | Java          |
-| Seven Wonders             | Java          |
-| Sibice                    | Java          |
-| Sok                       | Java          |
-| Solving for Carrots       | Java          | 
-| Spavanac                  | Java          |
-| Stuck in a Time Loop      | Java          |
-| Take Two Stones           | Java          |
-| Tarifa                    | Java          |
-| Trik						          | Java          |
-| Aaah                      | PowerShell    |
-| Hello World               | PowerShell    |
-| Quadrant Selection        | PowerShell    |
-| Take Two Stones           | PowerShell    |
-| Aaah                      | Python        |
-| Alphabet Spam             | Python        |
-| Beavergnaw                | Python        |
-| Dice Cup                  | Python        |
-| Heart Rate                | Python        |
-| Hello World               | Python        |
-| Kornislav                 | Python        |
-| Planina                   | Python        |
-| Hello World               | Ruby          |
+| Completed Challenge Name  | Language                                                                          | 🔗  |
+| :-------------------------|:----------------------------------------------------------------------------------|-----|
+| Hello World               | Ada, Assembly, BrainFuck, C, C++, C#, Dart, Java, PowerShell, Python, Ruby        |     |
+| Aaah                      | C, C++, C#, Java, PowerShell, Python                                              |     | 
+| ABC                       | C, Java                                                                           |     |
+| Beavergnaw                | C, C++, C#                                                                        |     | 
+| Dice Cup                  | C, Java, Python                                                                   |     | 
+| Heart Rate                | C, C++, Java, Python                                                              |     |
+| Quadrant Selection        | C, C++, Java, PowerShell                                                          |     |
+| Akcija                    | C++, Java                                                                         |     |
+| Alphabet Spam             | C++, C#, Java, Python                                                             |     |
+| Autori                    | C++, Java                                                                         |     |
+| ColdPuter Science         | C++, Java                                                                         |     |
+| Cryptographers Conundrum  | C++, Java                                                                         |     |
+| Detailed Differences      | C++, Java                                                                         |     |
+| Dice Cup                  | C++, C#, Java, Python                                                             |     |
+| Encoded Message           | C++, Java                                                                         |     |
+| FizzBuzz                  | C++, Java                                                                         |     |
+| Judging Moose             | C++, Java                                                                         |     |
+| Kornislav                 | C++, C#, Java, Python                                                             |     |
+| Last Factorial Digit      | C++, Java                                                                         |     |
+| Parking                   | C++, Java                                                                         |     |
+| Piece of Cake             | C++                                                                               |     |
+| Planina                   | C++, C#, Java, Python                                                             |     |
+| Problem E Drinking Song   | C++, Dart                                                                         |     |
+| Provinces and Gold        | C++                                                                               |     |
+| R2                        | C++, Java                                                                         |     |
+| Relocation                | C++, Java                                                                         |     |
+| Seven Wonders             | C++, Java                                                                         |     |
+| Speed Limit					      | C++                                                                               |     |
+| Stuck in a Time Loop      | C++, Java                                                                         |     |
+| Tarifa                    | C++, Java                                                                         |     |
+| Trik                      | C++, Java                                                                         |     |
+| Apaxiaaaaaaaaaaans        | Java                                                                              |     |
+| Bijele                    | Java                                                                              |     |
+| Cetvrta                   | Java                                                                              |     |
+| Everywhere                | Java                                                                              |     |
+| Faktor                    | Java                                                                              |     |
+| Filip                     | Java                                                                              |     |
+| Grass Seeds Inc           | Java                                                                              |     |
+| Hanging Out on the Terrace| Java                                                                              |     |
+| Hissing Microphone        | Java                                                                              |     |
+| Is It Halloween           | Java                                                                              |     |
+| Ladder                    | Java                                                                              |     |
+| Nasty Hacks               | Java                                                                              |     |
+| Number Fun                | Java                                                                              |     |
+| Oddities                  | Java                                                                              |     |
+| Pet                       | Java                                                                              |     |
+| Poker Hand                | Java                                                                              |     |
+| Pot                       | Java                                                                              |     |
+| Qaly                      | Java                                                                              |     |
+| Reversed Binary Numbers   | Java                                                                              |     |
+| Sibice                    | Java                                                                              |     |
+| Sok                       | Java                                                                              |     |
+| Solving for Carrots       | Java                                                                              |     |
+| Spavanac                  | Java                                                                              |     |
+| Take Two Stones           | Java, PowerShell                                                                  |     |
 
 
 ## Project Euler
-| Completed Challenge Name       | Language      | 
-| :------------------------------|:--------------| 
-| Fibonacci Numbers              | C++           | 
-| Largest Palidrome              | C#            | 
-| Largest Prime Factor           | C#            |
-| Multiples Of 3 And 5           | C++           |
-| Smallest Multiple              | C#            |
-| Sum Square Difference          | C#            |
+| Completed Challenge Name       | Language      | 🔗  |
+| :------------------------------|:--------------|-----| 
+| Fibonacci Numbers              | C++           |     |
+| Largest Palidrome              | C#            |     |
+| Largest Prime Factor           | C#            |     |
+| Multiples Of 3 And 5           | C++           |     |
+| Smallest Multiple              | C#            |     |
+| Sum Square Difference          | C#            |     |
