@@ -1,21 +1,21 @@
 # HackerRank, Kattis, and Project Euler
 My completed challenges for the websites: [HackerRank](https://www.hackerrank.com "HackerRank Homepage"), [Kattis](https://open.kattis.com "Kattis Homepage"), and [Project Euler](https://www.projecteuler.net "Project Euler Homepage").</br>
-The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainFuck`, `C`, `C#`, `C++`, `Dart`, `Java`, `Ruby`, `Python`, and `PowerShell`. 
+The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainFuck`, `C`, `C#`, `C++`, `Dart`, `Java`, `Ruby`, `Rust`, `Python`, and `PowerShell`. 
 
 ## HackerRank 
-| Completed Challenge Name | Language      | 🔗 |
-| :------------------------|:--------------| ---|
-| Hello World              | C             |    | 
-| Welcome to Java!         | Java          |    |
-| Java Stdin and Stdout I  | Java          |    |
-| Java If-Else             | Java          |    |
-| Java Stdin and Stdout II | Java          |    |
-| Java Output Formatting   | Java          |    |
-| Java Loops I             | Java          |    |
-| Java Loops II            | Java          |    |
-| Java Datatypes           | Java          |    |
-| Java End-of-file         | Java          |    |
-| Java Int to String       | Java          |    |
+| Completed Challenge Name | Language      | 🔗                                                                                                                                                     |
+| :------------------------|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Hello World              | C             |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/hello-world-c/problem)              | 
+| Welcome to Java!         | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/welcome-to-java/problem)            |
+| Java Stdin and Stdout I  | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)    |
+| Java If-Else             | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-if-else/problem)               |
+| Java Stdin and Stdout II | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)          |
+| Java Output Formatting   | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-output-formatting/problem)     |
+| Java Loops I             | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-loops-i/problem)               |
+| Java Loops II            | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-loops/problem)                 |
+| Java Datatypes           | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-datatypes/problem)             |
+| Java End-of-file         | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-end-of-file/problem)           |
+| Java Int to String       | Java          |[![:cat:](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
 
 
 ## Kattis 
@@ -80,11 +80,11 @@ The languages used throughout the challenges include: `Ada`, `Assembly`, `BrainF
 
 
 ## Project Euler
-| Completed Challenge Name       | Language      |:link:|
-| :------------------------------|:--------------|------| 
-| Fibonacci Numbers              | C++           |      |
-| Largest Palidrome              | C#            |      |
-| Largest Prime Factor           | C#            |      |
-| Multiples Of 3 And 5           | C++           |      | 
-| Smallest Multiple              | C#            |      |
-| Sum Square Difference          | C#            |      |
+| Completed Challenge Name       | Language      |:link:                                                                                                            |
+| :------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------:| 
+| Even Fibonacci Numbers         | C++           |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=2)  | 
+| Largest Palindrome Product     | C#            |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=4)  | 
+| Largest Prime Factor           | C#            |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=3)  | 
+| Multiples Of 3 And 5           | C++           |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=1)  | 
+| Smallest Multiple              | C#            |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=5)  | 
+| Sum Square Difference          | C#            |[![:cat:](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=6)  | 
