@@ -16,3 +16,8 @@ section .rodata
   msg: db "Hello World!", 10
   msglen: equ $ - msg 
   
+  
+; To run this script use the following commands:
+; nasm -f elf64 -o helloWorld.o helloWorld.s
+; ld -o helloWorld helloWorld.o
+; ./helloWorld
