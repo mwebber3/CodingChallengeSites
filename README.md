@@ -81,7 +81,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Trik                      | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik)                  | 
 
 
-## Project Euler
+## Project Euler 
 | Completed Challenge Name       | Language      |:link:                                                                                                            |
 | :------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------:| 
 | Even Fibonacci Numbers         | C++           |[![img](https://external-content.duckduckgo.com/ip3/projecteuler.net.ico)](https://projecteuler.net/problem=2)  | 
