@@ -1,6 +1,6 @@
 # HackerRank, Kattis, and Project Euler
 My completed challenges for the websites: [HackerRank](https://www.hackerrank.com "HackerRank Homepage"), [Kattis](https://open.kattis.com "Kattis Homepage"), and [Project Euler](https://www.projecteuler.net "Project Euler Homepage").</br>
-The languages used throughout the challenges include: `Ada`, `Assembly x86`, `BrainFuck`, `C`, `C#`, `C++`, `Dart`, `Java`, `Linux x86-64 Assembly`, `Ruby`, `Rust`, `Python`, and `PowerShell`.
+The languages used throughout the challenges include: `Ada`, `Assembly x86`, `BrainFuck`, `C`, `C#`, `C++`, `Dart`, `Java`, `Linux x86-64 Assembly`, `Ruby`, `Rust`, `Python`, `PowerShell` and `Swift`.
 
 ## HackerRank  
 | Completed Challenge Name | Language      |:link:                                                                                                                                                 |
@@ -44,7 +44,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Grass Seeds Inc           | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed)             |
 | Hanging Out on the Terrace| Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hangingout)            |
 | Heart Rate                | C, C++, Java, Python                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/heartrate)             |
-| Hello World               | Ada, Assembly x86, BrainFuck, C, C++, C#, Dart, Go, Java, Linux x86-64 Assembly, PowerShell, Python, Ruby, Rust  |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello)                 |
+| Hello World               | Ada, Assembly x86, BrainFuck, C, C++, C#, Dart, Go, Java, Linux x86-64 Assembly, PowerShell, Python, Ruby, Rust, Swift  |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hello)                 |
 | Hissing Microphone        | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/hissingmicrophone)     |
 | Is It Halloween           | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/isithalloween)         |
 | Judging Moose             | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/judgingmoose)          |
