@@ -5,17 +5,17 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 ## HackerRank
 | Completed Challenge Name | Language      |:link:                                                                                                                                                 |
 | :------------------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Hello World              | C             |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/hello-world-c/problem)              | 
-| Welcome to Java!         | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/welcome-to-java/problem)            |
-| Java Stdin and Stdout I  | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)    |
-| Java If-Else             | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-if-else/problem)               |
-| Java Stdin and Stdout II | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)          |
-| Java Output Formatting   | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-output-formatting/problem)     |
-| Java Loops I             | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-loops-i/problem)               |
-| Java Loops II            | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-loops/problem)                 |
-| Java Datatypes           | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-datatypes/problem)             |
-| Java End-of-file         | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-end-of-file/problem)           |
-| Java Int to String       | Java          |[![img](https://external-content.duckduckgo.com/ip3/www.hackerrank.com.ico)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
+| Hello World              | C             |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/hello-world-c/problem)              | 
+| Welcome to Java!         | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/welcome-to-java/problem)            |
+| Java Stdin and Stdout I  | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)    |
+| Java If-Else             | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-if-else/problem)               |
+| Java Stdin and Stdout II | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)          |
+| Java Output Formatting   | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-output-formatting/problem)     |
+| Java Loops I             | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-loops-i/problem)               |
+| Java Loops II            | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-loops/problem)                 |
+| Java Datatypes           | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-datatypes/problem)             |
+| Java End-of-file         | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-end-of-file/problem)           |
+| Java Int to String       | Java          |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
   
 
 ## Kattis 
