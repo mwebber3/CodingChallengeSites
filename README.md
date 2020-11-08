@@ -31,6 +31,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Beavergnaw                | C, C++, C#                                                                        |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/beavergnaw)            |
 | Bijele                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/bijele)                |
 | Cetvrta                   | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cetvrta)               |
+| Chanukah Challenge        | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/chanukah)              |
 | ColdPuter Science         | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/cold)                  |
 | Cryptographers Conundrum  | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/conundrum)             |
 | Datum                     | Python                                                                            |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum)                 |
