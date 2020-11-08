@@ -36,6 +36,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Datum                     | Python                                                                            |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/datum)                 |
 | Detailed Differences      | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/detaileddifferences)   |
 | Dice Cup                  | C, C++, C#, Java, Python                                                          |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/dicecup)               |
+| Electrical Outlets        | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/electricaloutlets)     |
 | Encoded Message           | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/encodedmessage)        |
 | Everywhere                | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere)            |
 | Faktor                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor)                |
