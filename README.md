@@ -73,6 +73,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | R2                        | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/r2)                    |
 | Railroad                  | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/railroad2)             |
 | Relocation                | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/relocation)            |
+| Reverse                   | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ofugsnuid)             |
 | Reversed Binary Numbers   | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/reversebinary)         |
 | Seven Wonders             | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sevenwonders)          |
 | Sibice                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sibice)                |
