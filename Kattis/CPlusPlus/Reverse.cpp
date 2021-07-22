@@ -24,6 +24,10 @@ int main() {
     std::cin.get();
 }
 
+// Function: Validate Input
+// Variable(s): Receives user input from main function
+// Output: Boolean value 
+// Purpose: Validates user input before continuing 
 bool validateInput (int input) {
     bool valid = true;
 
