@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> 
 #include <cstdlib> 
 
 bool validate(int, int, int);
