@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cstdlib>
+#include <cstdlib> 
 
 bool validate(int, int, int);
 
