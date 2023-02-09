@@ -62,6 +62,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Nasty Hacks               | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks)            |
 | Number Fun                | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numberfun)             |
 | Oddities                  | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities)              |
+| Odd Echo                  | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddecho)               |
 | One Chicken Per Person    | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/onechicken)            |
 | Parking                   | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/parking)               |
 | Pet                       | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet)                   |
