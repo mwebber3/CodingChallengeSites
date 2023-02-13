@@ -89,6 +89,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Take Two Stones           | C++, Java, PowerShell                                                             |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones)             |
 | Tarifa                    | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/tarifa)                |
 | Trik                      | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/trik)                  | 
+| Two Sum                   | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum)                | 
 | Which is Greater?         | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater)        | 
 
 
