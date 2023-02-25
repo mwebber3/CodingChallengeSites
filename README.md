@@ -17,7 +17,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Java End-of-file          | Java           |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-end-of-file/problem)           |
 | Java Int to String        | Java           |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
   
-
+ 
 ## Kattis 
 | Challenge Name            | Language                                                                          |:link:                                                                                            |
 | :-------------------------|:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------:|
