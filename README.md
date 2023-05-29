@@ -60,6 +60,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Kornislav                 | C++, C#, Java, Python                                                             |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav)             |
 | Ladder                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder)                |
 | Last Factorial Digit      | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit)    |
+| N-sum                     | C++                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum)            |
 | Nasty Hacks               | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nastyhacks)            |
 | Number Fun                | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/numberfun)             |
 | Oddities                  | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/oddities)              |
