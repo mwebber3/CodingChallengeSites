@@ -45,6 +45,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Everywhere                | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/everywhere)            |
 | Faktor                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/faktor)                |
 | Filip                     | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/filip)                 |
+| Finding An A              | C++                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/findingana)            |
 | FizzBuzz                  | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fizzbuzz)              |
 | FYI                       | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/fyi)                   |
 | Grass Seeds Inc           | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/grassseed)             |

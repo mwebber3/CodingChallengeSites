@@ -28,7 +28,7 @@ int main() {
 
     std::cout << whitespaceRatio << "\n" << lowerRatio << "\n" 
               << upperRatio << "\n" << symbolsRatio << "\n";
-
-    system("PAUSE");
-    return 0;
+    
+    exit(EXIT_SUCCESS);
+    std::cin.get();
 }
