@@ -1,7 +1,7 @@
-jonsAaah = raw_input()
-docsAaah = raw_input()
+jonsAaah = input()
+docsAaah = input()
 
 if (len(jonsAaah) >= len(docsAaah)):
-    print "go"
+    print("go")
 else:
-    print "no"
+    print ("no")

@@ -8,5 +8,5 @@ if (secondRoll < firstRoll):
     highestRoll = firstRoll
 
 for i in range ((lowestRoll + 1), (highestRoll + 2)):
-    print i
+    print (i)
     i = i + 1

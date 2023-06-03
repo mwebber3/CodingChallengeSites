@@ -1,4 +1,4 @@
-sentence = raw_input()
+sentence = input()
 length = len(sentence)
 whitespace = 0.0
 lowercase = 0.0
