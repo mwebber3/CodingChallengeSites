@@ -98,7 +98,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Two Sum                   | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum)                | 
 | Which is Greater?         | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/whichisgreater)        | 
 
-
+ 
 ## Project Euler 
 | Completed Challenge Name       | Language      |:link:                                                                                                            |
 | :------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------:| 
