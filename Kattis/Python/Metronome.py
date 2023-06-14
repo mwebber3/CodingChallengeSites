@@ -1,4 +1,3 @@
-userinput = input()
-input = int(userinput)
+input = int(input())
 rotations = (input / 4.0)
 print(rotations)
