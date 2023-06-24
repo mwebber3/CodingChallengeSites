@@ -18,7 +18,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Java Int to String        | Java           |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
   
    
-## Kattis  
+## Kattis   
 | Challenge Name            | Language                                                                          |:link:                                                                                            |
 | :-------------------------|:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------:|
 | Aaah                      | C, C++, C#, Java, PowerShell, Python                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah)                  |
@@ -61,6 +61,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Knight Packing            | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/knightpacking)         |
 | Kornislav                 | C++, C#, Java, Python                                                             |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/kornislav)             |
 | Ladder                    | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ladder)                |
+| Laptop Sticker            | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/laptopsticker)         |
 | Last Factorial Digit      | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/lastfactorialdigit)    |
 | Metronome                 | C++, Python                                                                       |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/metronome)             |
 | N-sum                     | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/nsum)                  |
@@ -72,7 +73,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Parking                   | C++, Java                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/parking)               |
 | Pet                       | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pet)                   |
 | Piece of Cake             | C++                                                                               |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pieceofcake2)          |
-| Planina                   | C++, C#, Java, Python                                                             |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina)               |    
+| Planina                   | C++, C#, Java, Python                                                             |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/planina)               |
 | Poker Hand                | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pokerhand)             |
 | Pot                       | Java                                                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/pot)                   |
 | Problem E Drinking Song   | C++, Dart                                                                         |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/drinkingsong)          |
