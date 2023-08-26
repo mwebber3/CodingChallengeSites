@@ -18,7 +18,7 @@ The languages used throughout the challenges include: `Ada`, `Assembly x86`, `Br
 | Java Int to String        | Java           |[![img](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-05bceb881aa02b72d688d21db01df5d8.png)](https://www.hackerrank.com/challenges/java-int-to-string/problem)         |
   
   
-## Kattis 
+## Kattis  
 | Challenge Name            | Language                                                                          |:link:                                                                                            |
 | :-------------------------|:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------:|
 | Aaah                      | C, C++, C#, Java, PowerShell, Python                                              |[![img](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah)                  |
